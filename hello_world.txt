@@ -1,2 +1,2 @@
 Hello all. I am using TOP to begin my journey. This is my first use of GitHub/Visual Studio Code on Ubuntu.
-Test after modifying git commit to use VSC as the text Editor.
+Test after modifying git commit to use VSC as the text editor.
